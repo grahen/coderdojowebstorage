@@ -16,6 +16,15 @@ Then,
 
     brew install libmagic
 
+### If using Debian or such. 
+
+Install rvm and ruby as stated above. 
+
+Then, 
+
+sudo apt-get install libmagic-dev
+
+
 ### Create config
 
     cp config.example.yml config.yml
